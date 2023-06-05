@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fran Bejarano</h1>
 <h3 align="center">A brand-new Software Engineer in Edinburgh</h3>
 
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/francisco-jose-bejarano-escano-76240716/"> LinkedIn </a></h3>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/francisco-jose-bejarano-escano-76240716/" target="_blank"> LinkedIn </a></h3>
 <p align="left">
 </p>
 
