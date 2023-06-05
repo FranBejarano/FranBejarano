@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FranBejarano?tab=repositories](https://github.com/FranBejarano?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/francisco-jose-bejarano-escano-76240716/</h3>
 <p align="left">
 </p>
 
