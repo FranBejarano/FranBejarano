@@ -8,7 +8,7 @@ Throughout my academic journey, I learned in courses about Development LifeCycle
 During my studies, I undertook several independent software projects that allowed me to apply my theoretical knowledge and develop practical skills. These projects included designing and implementing web applications, and developing software solutions for real-world problems. These experiences have honed my problem-solving abilities and strengthened my programming proficiency. A couple of examples of this projects are:
 <br>
 <ul>
-  <li><strong>Chitter: </strong></li>
+  <li><strong>Chitter: </strong>Chitter is a small Twitter clone project where users can post messages (peeps) to a public wall. The project fulfill several standard acceptance criteria, including posting and viewing peeps, displaying them in reverse chronological order, showing the timestamp, allowing user sign-up and login, and implementing log out functionality. Additional requirement include not requiring login to view peeps. The project was developed using React for the frontend, Node.js with Express for the backend, and MongoDB for the database. Test-driven development was followed, and the database will consist of two components: users and peeps.</li>
   <li><strong>News Feed: </strong></li>
 </ul>
 </p>
