@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fran Bejarano</h1>
 <h3 align="center">A brand-new Software Engineer in Edinburgh</h3>
 
+<p align="left"> I'm a passionate and dedicated software engineer with a keen interest in creating innovative solutions. I am eager to launch my career in the software development industry and contribute to cutting-edge projects. While I may not have commercial experience, my academic training and personal projects have equipped me with a solid foundation in software engineering principles and programming languages.
+<br>
+Throughout my academic journey, I learned in courses about Development LifeCycle, Test-Driven Development, Object-Orientated Programming or Agile Methodology. I gained hands-on experience in various programming languages, including Java, JavaScript, and various framework such as React.js and Node.js, testing tools such as Cypress and Jasmine, and I have a strong understanding of software development methodologies. 
+<br>
+During my studies, I undertook several independent software projects that allowed me to apply my theoretical knowledge and develop practical skills. These projects included designing and implementing web applications, and developing software solutions for real-world problems. These experiences have honed my problem-solving abilities and strengthened my programming proficiency. A couple of examples of this projects are:
+<br>
+<ul>
+  <li><strong>Chitter: </strong></li>
+  <li><strong>News Feed: </strong></li>
+</ul>
+</p>
+
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/francisco-jose-bejarano-escano-76240716/" target="_blank"> LinkedIn </a></h3>
 <p align="left">
 </p>
