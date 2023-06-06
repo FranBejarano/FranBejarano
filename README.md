@@ -3,13 +3,16 @@
 
 <p align="left"> I'm a passionate and dedicated software engineer with a keen interest in creating innovative solutions. I am eager to launch my career in the software development industry and contribute to cutting-edge projects. While I may not have commercial experience, my academic training and personal projects have equipped me with a solid foundation in software engineering principles and programming languages.
 <br>
+  <br>
 Throughout my academic journey, I learned in courses about Development LifeCycle, Test-Driven Development, Object-Orientated Programming or Agile Methodology. I gained hands-on experience in various programming languages, including Java, JavaScript, and various framework such as React.js and Node.js, testing tools such as Cypress and Jasmine, and I have a strong understanding of software development methodologies. 
 <br>
+  <br>
 During my studies, I undertook several independent software projects that allowed me to apply my theoretical knowledge and develop practical skills. These projects included designing and implementing web applications, and developing software solutions for real-world problems. These experiences have honed my problem-solving abilities and strengthened my programming proficiency. A couple of examples of this projects are:
 <br>
+  <br>
 <ul>
   <li><strong>Chitter: </strong>Chitter is a small Twitter clone project where users can post messages (peeps) to a public wall. The project fulfill several standard acceptance criteria, including posting and viewing peeps, displaying them in reverse chronological order, showing the timestamp, allowing user sign-up and login, and implementing log out functionality. Additional requirement include not requiring login to view peeps. The project was developed using React for the frontend, Node.js with Express for the backend, and MongoDB for the database. Test-driven development was followed, and the database will consist of two components: users and peeps.</li>
-  <li><strong>News Feed: </strong></li>
+  <li><strong>News Feed: </strong> This project involves test-driving a React single-page application that retrieves data from the Guardian API to display headlines and articles. The application serves using React's toolchain. The user stories include features such as viewing headlines, seeing relevant pictures with news articles, clicking on headlines to see news and photos, and accessing the original articles. The Guardian API has rate limits, so tests have been stubbed to avoid exceeding the limit. Implementation involves creating a component to display news photos and headlines, and then applying CSS styles. Tests cover data calls, data retrieval, error handling, and displaying loading messages and news feeds.</li>
 </ul>
 </p>
 
